@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  4 MAY 2020 13:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  4 MAY 2020 23:28
 entering extended mode
 **./main.tex
 (main.tex
@@ -239,50 +239,71 @@ Chapter 3.
 
 ]
 Chapter 4.
-(chapters/TestingStrategy.tex) [6
+(chapters/TestingStrategy.tex
+Overfull \hbox (18.8134pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10.95 Performance test-ing is car-ried out to check the sys-tem's 
+per-for-mance un-der vary-ing loads.Stress
+ []
 
-]
+) [6
+
+] [7]
 Chapter 5.
-(chapters/TestSchedule.tex) [7
+(chapters/TestSchedule.tex) [8
 
 ]
 Chapter 6.
-(chapters/ControlProcedures.tex) [8
+(chapters/ControlProcedures.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\OT1/cmr/m/n/10.95 Character
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\OT1/cmr/m/n/10.95 Player Move-
+ []
+
+
+Overfull \hbox (20.73628pt too wide) in paragraph at lines 12--22
+[][] 
+ []
+
+) [9
 
 ]
 Chapter 7.
-(chapters/FeaturestoBeTested.tex) [9
+(chapters/FeaturestoBeTested.tex) [10
 
 ]
 Chapter 8.
-(chapters/FeaturesNottoBeTested.tex) [10
+(chapters/FeaturesNottoBeTested.tex) [11
 
 ]
 Chapter 9.
-(chapters/Resources.tex) [11
+(chapters/Resources.tex) [12
 
 ]
 Chapter 10.
-(chapters/Schedules.tex) [12
+(chapters/Schedules.tex) [13
 
 ]
 Chapter 11.
-(chapters/RisksandAssumptions.tex) [13
+(chapters/RisksandAssumptions.tex) [14
 
 ]
 Chapter 12.
-(chapters/Tools.tex) [14
+(chapters/Tools.tex) [15
 
 ]
 Chapter 13.
-(chapters/References.tex [15
+(chapters/References.tex [16
 
-]) [16] (main.aux) ) 
+]) [17] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 2383 strings out of 480930
- 35382 string characters out of 2899762
+ 2384 strings out of 480930
+ 35390 string characters out of 2899762
  283635 words of memory out of 3000000
- 18220 multiletter control sequences out of 15000+200000
+ 18221 multiletter control sequences out of 15000+200000
  539670 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,11n,45p,599b,234s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -295,9 +316,9 @@ rs/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 .pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 178062 bytes).
+Output written on main.pdf (17 pages, 182175 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
