@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  2 MAY 2020 00:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  4 MAY 2020 13:12
 entering extended mode
 **./main.tex
 (main.tex
@@ -221,7 +221,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Chapter 1.
-(chapters/Introduction.tex) [3
+(chapters/Introduction.tex
+Overfull \hbox (14.22046pt too wide) in paragraph at lines 10--12
+[]\OT1/cmr/m/n/10.95 Allow the player to con-trol a spe-cific char-ac-ter, that
+ has an im-por-tant fic-tional/narrative
+ []
+
+) [3
 
 ]
 Chapter 2.
@@ -289,7 +295,7 @@ rs/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 .pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 176622 bytes).
+Output written on main.pdf (16 pages, 178062 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
