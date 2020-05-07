@@ -1,27 +1,22 @@
-\contentsline {chapter}{\numberline {1}Introduction}{3}%
-\contentsline {chapter}{\numberline {2}Objectives and Tasks }{4}%
-\contentsline {subsection}{\numberline {2.0.1}Objectives}{4}%
-\contentsline {subsection}{\numberline {2.0.2}Tasks}{4}%
-\contentsline {chapter}{\numberline {3}Scope}{5}%
-\contentsline {chapter}{\numberline {4}Testing Strategy }{6}%
-\contentsline {subsection}{\numberline {4.0.1}Unit Testing}{6}%
-\contentsline {subsection}{\numberline {4.0.2}System and Integration Testing}{6}%
-\contentsline {subsection}{\numberline {4.0.3}Performance and Stress Testing}{6}%
-\contentsline {subsection}{\numberline {4.0.4}User Acceptance Testing}{6}%
-\contentsline {subsection}{\numberline {4.0.5}Batch Testing}{6}%
-\contentsline {subsection}{\numberline {4.0.6}Automated Regression Testing}{6}%
-\contentsline {subsection}{\numberline {4.0.7}Beta Testing}{7}%
-\contentsline {chapter}{\numberline {5}Test Schedule}{8}%
-\contentsline {chapter}{\numberline {6}Control Procedures}{9}%
-\contentsline {chapter}{\numberline {7}Features to Be Tested}{10}%
-\contentsline {chapter}{\numberline {8}Features Not to Be Tested}{11}%
-\contentsline {chapter}{\numberline {9}Resources-Roles and Responsibilities}{12}%
-\contentsline {chapter}{\numberline {10}Schedules}{13}%
-\contentsline {chapter}{\numberline {11}Risks and Assumptions}{14}%
-\contentsline {chapter}{\numberline {12}Tools}{15}%
-\contentsline {chapter}{\numberline {13}References}{16}%
-\contentsline {subsection}{\numberline {13.0.1}Framework}{16}%
-\contentsline {subsection}{\numberline {13.0.2}Database Connection}{16}%
-\contentsline {subsection}{\numberline {13.0.3}API'S}{16}%
-\contentsline {subsection}{\numberline {13.0.4}Web vs Mobile}{17}%
-\contentsline {subsection}{\numberline {13.0.5}Start up Guide}{17}%
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Objectives and Tasks }{4}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Objectives}{4}{subsection.2.0.1}%
+\contentsline {subsection}{\numberline {2.0.2}Tasks}{4}{subsection.2.0.2}%
+\contentsline {chapter}{\numberline {3}Scope}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Testing Strategy }{6}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}Unit Testing}{6}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}System and Integration Testing}{6}{subsection.4.0.2}%
+\contentsline {subsection}{\numberline {4.0.3}Performance and Stress Testing}{6}{subsection.4.0.3}%
+\contentsline {subsection}{\numberline {4.0.4}User Acceptance Testing}{6}{subsection.4.0.4}%
+\contentsline {subsection}{\numberline {4.0.5}Batch Testing}{6}{subsection.4.0.5}%
+\contentsline {subsection}{\numberline {4.0.6}Automated Regression Testing}{6}{subsection.4.0.6}%
+\contentsline {subsection}{\numberline {4.0.7}Beta Testing}{7}{subsection.4.0.7}%
+\contentsline {chapter}{\numberline {5}Test Schedule}{8}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Control Procedures}{9}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Features to Be Tested}{10}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Features Not to Be Tested}{11}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Resources-Roles and Responsibilities}{12}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Schedules}{13}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Risks and Assumptions}{14}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Tools}{15}{chapter.12}%
+\contentsline {chapter}{\numberline {13}References}{16}{chapter.13}%
