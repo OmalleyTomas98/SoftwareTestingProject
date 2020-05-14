@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.5.8)  14 MAY 2020 23:17
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  14 MAY 2020 19:18
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -181,6 +185,7 @@ Package: geometry 2018/04/16 v5.8 Page Geometry
 (/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
+<<<<<<< HEAD
 \f@nch@headwidth=\skip44
 \f@nch@O@elh=\skip45
 \f@nch@O@erh=\skip46
@@ -242,6 +247,90 @@ Package: multicol 2019/03/01 v1.8w multicolumn formatting (FMi)
 \mc@col@check@num=\count111
 )
 (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+=======
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
+"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count189
+\mult@box=\box45
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count190
+\c@collectmore=\count191
+\doublecol@number=\count192
+\multicoltolerance=\count193
+\multicolpretolerance=\count194
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip59
+\multicolbaselineskip=\skip60
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count195
+\c@columnbadness=\count196
+\c@finalcolumnbadness=\count197
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count198
+)
+("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -257,16 +346,36 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+<<<<<<< HEAD
 ) (./main.aux)
+=======
+)
+("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count199
+\l__pdf_internal_box=\box91
+) (main.aux)
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
+<<<<<<< HEAD
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+=======
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
@@ -274,10 +383,18 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
+<<<<<<< HEAD
 \AtBeginShipoutBox=\box53
 Package hyperref Info: Link coloring OFF on input line 53.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+=======
+\AtBeginShipoutBox=\box92
+Package hyperref Info: Link coloring OFF on input line 53.
+
+("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+ty"
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -285,16 +402,26 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count112
 )
+<<<<<<< HEAD
 LaTeX Info: Redefining \ref on input line 53.
 LaTeX Info: Redefining \pageref on input line 53.
 LaTeX Info: Redefining \nameref on input line 53.
  (./main.out)
 (./main.out)
+=======
+\c@section@level=\count266
+)
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
+ (main.out) (main.out)
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
+<<<<<<< HEAD
 \scratchcounter=\count113
 \scratchdimen=\dimen126
 \scratchbox=\box54
@@ -311,6 +438,19 @@ Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 (/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+=======
+\scratchcounter=\count267
+\scratchdimen=\dimen158
+\scratchbox=\box93
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen159
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks20
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
@@ -358,7 +498,11 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<<<<<<< HEAD
 <images/gmit.png, id=140, 721.69624pt x 460.72125pt>
+=======
+<images/gmit.png, id=131, 721.69624pt x 460.72125pt>
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 File: images/gmit.png Graphic file (type png)
 <use images/gmit.png>
 Package pdftex.def Info: images/gmit.png  used on input line 55.
@@ -491,6 +635,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
 ) [10]
 Chapter 5.
+<<<<<<< HEAD
 (./chapters/TestSchedule.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
@@ -511,27 +656,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 ]
 Chapter 6.
 (./chapters/ControlProcedures.tex
+=======
+(chapters/TestSchedule.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 4.
+
+) [9
+
+]
+Chapter 6.
+(chapters/ControlProcedures.tex
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--21
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 []\OT1/cmr/m/n/10.95 Character
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 21--21
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 []\OT1/cmr/m/n/10.95 Player Move-
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (20.73628pt too wide) in paragraph at lines 15--25
+=======
+Overfull \hbox (20.73628pt too wide) in paragraph at lines 14--24
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 [][] 
  []
 
@@ -594,29 +763,50 @@ Underfull \hbox (badness 2401) in paragraph at lines 48--49
 
 ]
 Chapter 7.
+<<<<<<< HEAD
 (./chapters/FeaturestoBeTested.tex
+=======
+(chapters/FeaturestoBeTested.tex
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
+<<<<<<< HEAD
 ) [13
 
 ]
 Chapter 8.
 (./chapters/FeaturesNottoBeTested.tex
+=======
+) [11
+
+]
+Chapter 8.
+(chapters/FeaturesNottoBeTested.tex
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
+<<<<<<< HEAD
 ) [14
 
 ]
 Chapter 9.
 (./chapters/Resources.tex
+=======
+) [12
+
+]
+Chapter 9.
+(chapters/Resources.tex
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
+<<<<<<< HEAD
 ) [15
 
 ]
@@ -631,19 +821,44 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 ]
 Chapter 11.
 (./chapters/RisksandAssumptions.tex
+=======
+) [13
+
+]
+Chapter 10.
+(chapters/Schedules.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 2.
 
+) [14
+
+]
+Chapter 11.
+(chapters/RisksandAssumptions.tex
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2.
+
+<<<<<<< HEAD
 ) [17
 
 ]
 Chapter 12.
 (./chapters/Tools.tex
+=======
+) [15
+
+]
+Chapter 12.
+(chapters/Tools.tex
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
+<<<<<<< HEAD
 [18
 
 ])
@@ -678,4 +893,49 @@ PDF statistics:
  338 compressed objects within 4 object streams
  108 named destinations out of 1000 (max. 500000)
  278 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+[16
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
+ [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: A2D149B0D66838B67F72CFF171E617A5;2003
+(rerunfilecheck)             After:  6ABE90D69436C25F72223B68D3293B92;2062.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
+ ) 
+Here is how much of TeX's memory you used:
+ 6567 strings out of 480930
+ 102307 string characters out of 2899762
+ 374509 words of memory out of 3000000
+ 22199 multiletter control sequences out of 15000+200000
+ 540011 words of font info for 49 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,11n,45p,541b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\mosso\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1095.pk><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mosso/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/mosso/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mosso
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr17.pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti12.pfb>
+Output written on main.pdf (17 pages, 215349 bytes).
+PDF statistics:
+ 349 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 1b7c0c4794a779eca78df872f86f0140afaaae54
 
