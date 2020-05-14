@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  14 MAY 2020 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  14 MAY 2020 19:18
 entering extended mode
 **./main.tex
 (main.tex
@@ -236,6 +236,77 @@ s
 \f@nch@O@olf=\skip57
 \f@nch@O@orf=\skip58
 )
+("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
+"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count189
+\mult@box=\box45
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count190
+\c@collectmore=\count191
+\doublecol@number=\count192
+\multicoltolerance=\count193
+\multicolpretolerance=\count194
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip59
+\multicolbaselineskip=\skip60
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count195
+\c@columnbadness=\count196
+\c@finalcolumnbadness=\count197
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count198
+)
 ("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -257,29 +328,29 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
 d-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count189
-\l__pdf_internal_box=\box45
+\l__kernel_color_stack_int=\count199
+\l__pdf_internal_box=\box91
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-\AtBeginShipoutBox=\box46
-Package hyperref Info: Link coloring OFF on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+\AtBeginShipoutBox=\box92
+Package hyperref Info: Link coloring OFF on input line 53.
 
 ("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -293,11 +364,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count190
+\c@section@level=\count266
 )
-LaTeX Info: Redefining \ref on input line 52.
-LaTeX Info: Redefining \pageref on input line 52.
-LaTeX Info: Redefining \nameref on input line 52.
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -306,16 +377,16 @@ LaTeX Info: Redefining \nameref on input line 52.
 ("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count191
-\scratchdimen=\dimen149
-\scratchbox=\box47
-\nofMPsegments=\count192
-\nofMParguments=\count193
+\scratchcounter=\count267
+\scratchdimen=\dimen158
+\scratchbox=\box93
+\nofMPsegments=\count268
+\nofMParguments=\count269
 \everyMPshowfont=\toks19
-\MPscratchCnt=\count194
-\MPscratchDim=\dimen150
-\MPnumerator=\count195
-\makeMPintoPDFobject=\count196
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen159
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
 \everyMPtoPDFconversion=\toks20
 )
 ("C:\Users\mosso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
@@ -359,17 +430,17 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/gmit.png, id=103, 721.69624pt x 460.72125pt>
+<images/gmit.png, id=131, 721.69624pt x 460.72125pt>
 File: images/gmit.png Graphic file (type png)
 <use images/gmit.png>
-Package pdftex.def Info: images/gmit.png  used on input line 54.
+Package pdftex.def Info: images/gmit.png  used on input line 55.
 (pdftex.def)             Requested size: 213.39566pt x 136.22794pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 54.
+(Font)              <12> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 54.
+(Font)              <6> on input line 55.
 
 LaTeX Warning: No \author given.
 
@@ -400,23 +471,23 @@ Overfull \hbox (14.22046pt too wide) in paragraph at lines 34--36
 
 ) [3
 
-] [4]
+]
 Chapter 2.
 (chapters/Objectives.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-[5
+[4
 
-]) [6]
+]) [5]
 Chapter 3.
 (chapters/Scope.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
-) [7
+) [6
 
 ]
 Chapter 4.
@@ -456,7 +527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-[8
+[7
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
@@ -468,69 +539,116 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-) [9]
+) [8]
 Chapter 5.
-(chapters/TestSchedule.tex) [10
+(chapters/TestSchedule.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 4.
+
+) [9
 
 ]
 Chapter 6.
 (chapters/ControlProcedures.tex
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []\OT1/cmr/m/n/10.95 Character
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []\OT1/cmr/m/n/10.95 Player Move-
  []
 
 
-Overfull \hbox (20.73628pt too wide) in paragraph at lines 11--21
+Overfull \hbox (20.73628pt too wide) in paragraph at lines 14--24
 [][] 
  []
+
+) [10
+
+]
+Chapter 7.
+(chapters/FeaturestoBeTested.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
 
 ) [11
 
 ]
-Chapter 7.
-(chapters/FeaturestoBeTested.tex) [12
-
-]
 Chapter 8.
-(chapters/FeaturesNottoBeTested.tex) [13
+(chapters/FeaturesNottoBeTested.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
+) [12
 
 ]
 Chapter 9.
-(chapters/Resources.tex) [14
+(chapters/Resources.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
+) [13
 
 ]
 Chapter 10.
-(chapters/Schedules.tex) [15
+(chapters/Schedules.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2.
+
+) [14
 
 ]
 Chapter 11.
-(chapters/RisksandAssumptions.tex) [16
+(chapters/RisksandAssumptions.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2.
+
+) [15
 
 ]
 Chapter 12.
-(chapters/Tools.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
- [17
+(chapters/Tools.tex
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1.
+
+[16
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
+ [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DF4932D9B97AF331A2D0E0EE7F96320F;1575.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: A2D149B0D66838B67F72CFF171E617A5;2003
+(rerunfilecheck)             After:  6ABE90D69436C25F72223B68D3293B92;2062.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 6431 strings out of 480930
- 100131 string characters out of 2899762
- 368719 words of memory out of 3000000
- 22075 multiletter control sequences out of 15000+200000
+ 6567 strings out of 480930
+ 102307 string characters out of 2899762
+ 374509 words of memory out of 3000000
+ 22199 multiletter control sequences out of 15000+200000
  540011 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,11n,45p,541b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -544,9 +662,9 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mosso
 /Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr17.pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti12.pfb>
-Output written on main.pdf (17 pages, 210790 bytes).
+Output written on main.pdf (17 pages, 215349 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
 

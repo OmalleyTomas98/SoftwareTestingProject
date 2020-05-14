@@ -16,10 +16,18 @@
 \BOOKMARK [2][-]{subsection.4.0.6}{Automated Regression Testing}{subsection.4.0.1}% 16
 \BOOKMARK [2][-]{subsection.4.0.7}{Beta Testing}{subsection.4.0.1}% 17
 \BOOKMARK [0][-]{chapter.5}{Test Schedule}{}% 18
-\BOOKMARK [0][-]{chapter.6}{Control Procedures}{}% 19
-\BOOKMARK [0][-]{chapter.7}{Features to Be Tested}{}% 20
-\BOOKMARK [0][-]{chapter.8}{Features Not to Be Tested}{}% 21
-\BOOKMARK [0][-]{chapter.9}{Resources-Roles and Responsibilities}{}% 22
-\BOOKMARK [0][-]{chapter.10}{Schedules}{}% 23
-\BOOKMARK [0][-]{chapter.11}{Risks and Assumptions}{}% 24
-\BOOKMARK [0][-]{chapter.12}{Tools}{}% 25
+\BOOKMARK [1][-]{subsection.5.0.1}{Schedule}{chapter.5}% 19
+\BOOKMARK [0][-]{chapter.6}{Control Procedures}{}% 20
+\BOOKMARK [1][-]{subsection.6.0.1}{Procedures}{chapter.6}% 21
+\BOOKMARK [0][-]{chapter.7}{Features to Be Tested}{}% 22
+\BOOKMARK [1][-]{subsection.7.0.1}{The Features}{chapter.7}% 23
+\BOOKMARK [0][-]{chapter.8}{Features Not to Be Tested}{}% 24
+\BOOKMARK [1][-]{subsection.8.0.1}{Features}{chapter.8}% 25
+\BOOKMARK [0][-]{chapter.9}{Resources-Roles and Responsibilities}{}% 26
+\BOOKMARK [1][-]{subsection.9.0.1}{Roles}{chapter.9}% 27
+\BOOKMARK [0][-]{chapter.10}{Schedules}{}% 28
+\BOOKMARK [1][-]{subsection.10.0.1}{Schedule}{chapter.10}% 29
+\BOOKMARK [0][-]{chapter.11}{Risks and Assumptions}{}% 30
+\BOOKMARK [1][-]{subsection.11.0.1}{Risks}{chapter.11}% 31
+\BOOKMARK [0][-]{chapter.12}{Tools}{}% 32
+\BOOKMARK [1][-]{subsection.12.0.1}{The Tools}{chapter.12}% 33
