@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  14 MAY 2020 02:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.1)  14 MAY 2020 15:03
 entering extended mode
 **./main.tex
 (main.tex
@@ -393,30 +393,30 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 2.
 
 
-Overfull \hbox (14.22046pt too wide) in paragraph at lines 30--32
+Overfull \hbox (14.22046pt too wide) in paragraph at lines 34--36
 []\OT1/cmr/m/n/10.95 Allow the player to con-trol a spe-cific char-ac-ter, that
  has an im-por-tant fic-tional/narrative
  []
 
 ) [3
 
-]
+] [4]
 Chapter 2.
 (chapters/Objectives.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-[4
+[5
 
-]) [5]
+]) [6]
 Chapter 3.
 (chapters/Scope.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
-) [6
+) [7
 
 ]
 Chapter 4.
@@ -456,7 +456,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-[7
+[8
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
@@ -468,9 +468,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-) [8]
+) [9]
 Chapter 5.
-(chapters/TestSchedule.tex) [9
+(chapters/TestSchedule.tex) [10
 
 ]
 Chapter 6.
@@ -489,33 +489,33 @@ Overfull \hbox (20.73628pt too wide) in paragraph at lines 11--21
 [][] 
  []
 
-) [10
+) [11
 
 ]
 Chapter 7.
-(chapters/FeaturestoBeTested.tex) [11
+(chapters/FeaturestoBeTested.tex) [12
 
 ]
 Chapter 8.
-(chapters/FeaturesNottoBeTested.tex) [12
+(chapters/FeaturesNottoBeTested.tex) [13
 
 ]
 Chapter 9.
-(chapters/Resources.tex) [13
+(chapters/Resources.tex) [14
 
 ]
 Chapter 10.
-(chapters/Schedules.tex) [14
+(chapters/Schedules.tex) [15
 
 ]
 Chapter 11.
-(chapters/RisksandAssumptions.tex) [15
+(chapters/RisksandAssumptions.tex) [16
 
 ]
 Chapter 12.
 (chapters/Tools.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
- [16
+ [17
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
@@ -527,13 +527,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
  ) 
 Here is how much of TeX's memory you used:
- 6423 strings out of 480930
- 100075 string characters out of 2899762
+ 6431 strings out of 480930
+ 100131 string characters out of 2899762
  368719 words of memory out of 3000000
  22075 multiletter control sequences out of 15000+200000
  540011 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,45p,464b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,11n,45p,541b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\mosso\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1095.pk><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/font
@@ -544,9 +544,9 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mosso
 /Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr17.pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 207167 bytes).
+Output written on main.pdf (17 pages, 210790 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
+ 311 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
